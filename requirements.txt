@@ -5,3 +5,4 @@ requests
 python-whois
 gunicorn
 reportlab
+tldextract
